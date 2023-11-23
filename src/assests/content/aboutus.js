@@ -1,0 +1,1 @@
+export const aboutusContent = 'From remodeling to national accounts rollout. Lumanex LLC is proud to partner with you and so many others to get your project done.  Our team has decades of experience in project management and construction management ranging from insurance repair to telecom to solar.';

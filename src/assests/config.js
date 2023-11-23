@@ -1,0 +1,1 @@
+export const API_BASIC_URL = "https://lumanex-4472636c7ced.herokuapp.com/api";
